@@ -1,46 +1,6 @@
-<div align="center">
+# Rishi Raman
 
-# 👋 Rishi Raman
-
-### Applied AI Leader · Decision Systems · Banking & Customer Analytics
-
-**I help teams turn complex business problems into AI and analytics systems they can use, evaluate, and trust.**
-
-Machine Learning &nbsp; / &nbsp; Agentic AI &nbsp; / &nbsp; AI Product Leadership &nbsp; / &nbsp; Responsible AI
-
-</div>
-
----
-
-## 🎯 About me
-
-I work at the intersection of business decisions, machine learning, and production delivery. My experience spans forecasting, pricing, customer lifetime value, and GenAI applications in financial services.
-
-I connect the business problem to the model, the model to a product, and the product to the teams and controls needed to keep it useful. That means working across data science, engineering, business stakeholders, and model risk—from the initial question through validation and adoption.
-
-## 💡 What I work on
-
-| Focus | The problems I help solve |
-| :--- | :--- |
-| **Pricing & forecasting** | Understand customer behaviour, forecast balances, and inform pricing decisions under business constraints. |
-| **Customer intelligence** | Use lifetime value, churn, segmentation, and cross-sell models to inform acquisition and retention. |
-| **GenAI & agentic systems** | Develop retrieval and assistant workflows with grounding, source citation, evaluation, and human review. |
-| **Enterprise analytics** | Translate business definitions into consistent data models, comparable measures, and useful decision tools. |
-| **AI product leadership** | Shape roadmaps, lead model-development teams, and coordinate delivery across business, technology, and governance. |
-
-## 🧭 How I approach a problem
-
-1. **Start with the decision.** Who will use the output, what action will change, and how will success be measured?
-2. **Understand the data.** Establish definitions, assumptions, coverage, and the sources of uncertainty.
-3. **Choose the method.** Match the model or AI workflow to the problem, constraints, and cost of failure.
-4. **Evaluate the whole system.** Connect model performance to usefulness, reliability, and business outcomes.
-5. **Make it work in practice.** Build ownership, monitoring, feedback, and governance into delivery.
-
-## 🛠️ Technical foundation
-
-**Machine learning:** Regression & GLMs · Classification · Customer lifetime value · Churn & propensity modelling · Forecasting · Pricing & optimization · Model validation
-
-**Generative AI:** RAG · Agentic workflows · LLM evaluation · Grounding & source citation · Human review
+**Applied AI Leader · Banking & Customer Analytics**
 
 ### Languages & data
 
@@ -59,10 +19,42 @@ I connect the business problem to the model, the model to a product, and the pro
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 
-**Retrieval infrastructure:** Vector databases
+---
 
-## 🤝 Leadership & knowledge sharing
+## 🎯 Leadership
 
-I lead and develop data science teams, work across business and technical functions, and contribute to responsible AI governance and AI communities. I enjoy making complex ideas easier to explain, challenge, and apply.
+![AI Strategy & Roadmap](https://img.shields.io/badge/AI%20Strategy%20%26%20Roadmap-1D4ED8?style=for-the-badge)
+![Portfolio Prioritization](https://img.shields.io/badge/Portfolio%20Prioritization-1D4ED8?style=for-the-badge)
+![Team & Talent Leadership](https://img.shields.io/badge/Team%20%26%20Talent%20Leadership-1D4ED8?style=for-the-badge)
+![Cross-Business Leadership](https://img.shields.io/badge/Cross--Business%20Leadership-1D4ED8?style=for-the-badge)
+![AI Product Leadership](https://img.shields.io/badge/AI%20Product%20Leadership-1D4ED8?style=for-the-badge)
+![Executive Communication](https://img.shields.io/badge/Executive%20Communication-1D4ED8?style=for-the-badge)
 
-The questions that interest me most: **What decision does this improve? How do we know it works? What will keep it useful in production?**
+## 🧠 AI & Analytics
+
+![GenAI & Agentic AI](https://img.shields.io/badge/GenAI%20%26%20Agentic%20AI-7C3AED?style=for-the-badge)
+![Applied Machine Learning](https://img.shields.io/badge/Applied%20Machine%20Learning-7C3AED?style=for-the-badge)
+![Pricing & Optimization](https://img.shields.io/badge/Pricing%20%26%20Optimization-7C3AED?style=for-the-badge)
+![Customer Analytics](https://img.shields.io/badge/Customer%20Analytics-7C3AED?style=for-the-badge)
+![Data & Analytics Products](https://img.shields.io/badge/Data%20%26%20Analytics%20Products-7C3AED?style=for-the-badge)
+
+## 🏦 Banking
+
+![Consumer Banking](https://img.shields.io/badge/Consumer%20Banking-0F766E?style=for-the-badge)
+![Wealth Management](https://img.shields.io/badge/Wealth%20Management-0F766E?style=for-the-badge)
+![Treasury & Pricing](https://img.shields.io/badge/Treasury%20%26%20Pricing-0F766E?style=for-the-badge)
+![Marketing & Risk](https://img.shields.io/badge/Marketing%20%26%20Risk-0F766E?style=for-the-badge)
+
+## 🛡️ Governance
+
+![Responsible AI](https://img.shields.io/badge/Responsible%20AI-475569?style=for-the-badge)
+![Model Risk Management](https://img.shields.io/badge/Model%20Risk%20Management-475569?style=for-the-badge)
+![Model Validation](https://img.shields.io/badge/Model%20Validation-475569?style=for-the-badge)
+![LLM Evaluation](https://img.shields.io/badge/LLM%20Evaluation-475569?style=for-the-badge)
+
+## 🛠️ Technical Foundation
+
+![RAG](https://img.shields.io/badge/RAG-334155?style=for-the-badge)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-334155?style=for-the-badge)
+![LLM Foundations](https://img.shields.io/badge/LLM%20Foundations-334155?style=for-the-badge)
+![Production AI Decisions](https://img.shields.io/badge/Production%20AI%20Decisions-334155?style=for-the-badge)

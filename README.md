@@ -2,22 +2,26 @@
 
 **Applied AI Leader · Banking & Customer Analytics**
 
-### Languages & data
+## 🛠️ Technical Foundation
+
+### Tools & Platform
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-
-### Cloud & platforms
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+### GenAI & Agentic
+
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=for-the-badge)
-
-### GenAI frameworks
-
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-334155?style=for-the-badge)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-334155?style=for-the-badge)
+![LLM Evaluation](https://img.shields.io/badge/LLM%20Evaluation-475569?style=for-the-badge)
+![LLM Foundations](https://img.shields.io/badge/LLM%20Foundations-334155?style=for-the-badge)
+![Production AI Decisions](https://img.shields.io/badge/Production%20AI%20Decisions-334155?style=for-the-badge)
 
 ---
 
@@ -51,10 +55,3 @@
 ![Model Risk Management](https://img.shields.io/badge/Model%20Risk%20Management-475569?style=for-the-badge)
 ![Model Validation](https://img.shields.io/badge/Model%20Validation-475569?style=for-the-badge)
 ![LLM Evaluation](https://img.shields.io/badge/LLM%20Evaluation-475569?style=for-the-badge)
-
-## 🛠️ Technical Foundation
-
-![RAG](https://img.shields.io/badge/RAG-334155?style=for-the-badge)
-![Vector Databases](https://img.shields.io/badge/Vector%20Databases-334155?style=for-the-badge)
-![LLM Foundations](https://img.shields.io/badge/LLM%20Foundations-334155?style=for-the-badge)
-![Production AI Decisions](https://img.shields.io/badge/Production%20AI%20Decisions-334155?style=for-the-badge)
